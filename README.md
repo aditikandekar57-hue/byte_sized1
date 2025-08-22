@@ -4,7 +4,9 @@
 🚀 About Me
 
 🔭 I’m currently working on AI and full-stack web projects
+
 🌱 Learning more about ML, APIs, and cloud computing
+
 ⚡ Fun fact: I love turning complex problems into clean solutions
 
 
